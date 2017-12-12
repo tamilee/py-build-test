@@ -5,5 +5,5 @@
 #############################################
 
 
-from clusterPortfolio import generatePortfolio      # this comes from a compiled binary
+from hello import hello     # this comes from a compiled binary
 main ()
